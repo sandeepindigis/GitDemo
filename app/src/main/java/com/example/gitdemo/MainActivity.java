@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
         tv1.setText("Add New Text View");
        /* tv.setText("Twinkal");
         tv.setText("Titu");
-        tv.setText("Lala");
+        tv.setText("New Member");
+        /*tv.setText("Lala");
         tv.setText("Nikki");
         tv.setText("Khudal");
         tv.setText("Riyansh");
