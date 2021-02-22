@@ -13,8 +13,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView tv=findViewById(R.id.tv_name);
+        TextView tv1=findViewById(R.id.tv_namee);
         tv.setText("Sandeep");
         tv.setText("Vishal");
+        tv1.setText("Add New Text View");
        /* tv.setText("Twinkal");
         tv.setText("Titu");
         tv.setText("Lala");
