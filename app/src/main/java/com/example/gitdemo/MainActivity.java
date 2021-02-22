@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
        /* tv.setText("Twinkal");
         tv.setText("Titu");
         tv.setText("New Member");
+        tv.setText("Add New Nameeeeeeee");
         /*tv.setText("Lala");
         tv.setText("Nikki");
         tv.setText("Khudal");
